@@ -22,11 +22,10 @@
     @apply mt-10;
   }
 } */
-h1{
-  font-size: 50px;
-}
+
 
 .slidev-layout{
+  /* background-color: cyan; */
   font-size: var(--Mobile-farsi-youtube-font-size);
   h1{
     font-size: 50px;
