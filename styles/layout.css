@@ -30,5 +30,17 @@
   h1{
     font-size: 50px;
   }
-
+p{
+  line-height: 2;
+}
+.katex{
+  direction: ltr;
+  text-align: right !important;
+}
+.katex .base, .katex .strut{
+  display: unset;
+}
+}
+.slidev-code, code{
+  direction: ltr;
 }
